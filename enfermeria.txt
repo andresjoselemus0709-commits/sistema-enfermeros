@@ -1,0 +1,13 @@
+SISTEMA ENFERMEROS
+
+
+Nombre: Andres Jose Lemus
+Edad: 19 años
+Especialidad : Fisioterapia
+Numero de pacientes atendidos: 14.0
+Sueldo: 2588125.0
+Numero de celular: 3213740760
+Su contrato vence el 31/12/2026
+
+
+Ingresó al sistema el: 2026-09-22 a las 12:34:37.321079400 hrs
